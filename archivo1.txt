@@ -1,1 +1,2 @@
 Contenido del primer archivo
+modificando contenido de arch1 NuevaFuncionalidad
